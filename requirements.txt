@@ -1,0 +1,27 @@
+# Core data science libraries
+pandas>=1.3.0
+numpy>=1.21.0
+scikit-learn>=1.0.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Serial communication
+pyserial>=3.5
+
+# Text-to-speech
+gtts>=2.2.3
+
+# Windows-specific speech API (Windows only)
+pywin32>=301
+
+# Machine learning model persistence
+joblib>=1.1.0
+
+# Optional: for advanced plotting and analysis
+plotly>=5.0.0
+jupyter>=1.0.0
+
+# Development and testing (optional)
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
