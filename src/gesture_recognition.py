@@ -12,7 +12,7 @@ r=["hello","how are you","happy morning","good day","i am hungry","good night","
 from sklearn.preprocessing import StandardScaler
 
 import pickle
-filename = 'model.sav'
+filename = '../models/gesture_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 serial_port = 'COM3'  

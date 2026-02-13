@@ -7,7 +7,7 @@ from time import sleep
 from datetime import datetime
 
 import pickle
-filename = 'model.sav'
+filename = '../models/gesture_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
 
 base = "http://192.168.137.233/"

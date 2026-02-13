@@ -7,7 +7,7 @@ import seaborn as sns
 import pickle
 
 
-data = pd.read_csv('dataset.csv')
+data = pd.read_csv('../data/gesture_dataset.csv')
 
 X = data.iloc[:, :-1]
 y = data.iloc[:, -1]
@@ -22,7 +22,7 @@ from sklearn.neighbors import KNeighborsClassifier
 model = KNeighborsClassifier(n_neighbors=3)
 model.fit(X_train, y_train)
 
-filename = 'model.sav'
+filename = '../models/gesture_model.sav'
 pickle.dump(model, open(filename, 'wb'))
 
 y_pred = model.predict(X_test)
