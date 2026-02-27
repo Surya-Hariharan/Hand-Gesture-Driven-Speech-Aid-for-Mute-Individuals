@@ -695,29 +695,6 @@ Built with ❤️ by passionate accessibility advocates:
 
 ---
 
-## 🙏 Acknowledgments
-
-### Research & Inspiration
-- **Assistive Technology Research** - University accessibility programs
-- **Open Source Community** - Arduino, Python, and ML libraries
-- **Accessibility Advocates** - User feedback and requirements gathering
-- **Healthcare Professionals** - Clinical insights and validation
-
-### Technology Partners
-- **Arduino Foundation** - Microcontroller platform and support
-- **Google** - Text-to-Speech API and cloud services
-- **Microsoft** - Windows Speech API integration
-- **Scikit-learn Community** - Machine learning framework
-- **ThingSpeak/MathWorks** - IoT cloud platform
-
-### Special Thanks
-- **Beta Testers** - Early adopters and feedback providers
-- **Accessibility Organizations** - Partnership and validation
-- **Educational Institutions** - Research collaboration
-- **Family & Friends** - Endless support and encouragement
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from developers, accessibility experts, and users! Here's how to get involved:
