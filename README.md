@@ -789,16 +789,7 @@ mypy src/
 
 ## 🎯 Project Impact
 
-### Accessibility Achievements
-- **👥 Users Reached:** 150+ beta testers across 12 countries
-- **🏥 Healthcare Partnerships:** 8 rehabilitation centers
-- **🎓 Educational Adoption:** 15 schools and universities
-- **💼 Workplace Integration:** 5 corporate accessibility programs
-
 ### Recognition & Awards
-- 🏆 **IEEE Student Innovation Award 2026**
-- 🥇 **Best Assistive Technology Project** - TechForGood Summit
-- 🌟 **Open Source Accessibility Excellence** - GitHub Social Impact
 - 📜 **IEEE Conference Paper** - ISED 2024 International Conference
 - 🎓 **Academic Recognition** - Published in IEEE Xplore Digital Library
 
