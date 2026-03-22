@@ -650,7 +650,7 @@ This paper presents a comprehensive assistive technology solution for mute indiv
 
 **Citation:**
 ```bibtex
-@inproceedings{hariharan2024gesture,
+@inproceedings{Surya-Hariharan2024gesture,
   title={Hand Gesture Driven Speech Aid for Mute Individuals using Machine Learning},
   author={Hariharan, Surya and Seshadri, Vishal and Saaran, Sanggit and Venkatram, KS},
   booktitle={2024 12th International Conference on Intelligent Systems and Embedded Design (ISED)},
